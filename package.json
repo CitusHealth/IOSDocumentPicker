@@ -1,0 +1,17 @@
+{
+  "name": "cordova-plugin-documentpicker.DocumentPicker",
+  "version": "1.0.0",
+  "description": "Cordova DocumentPicker Plugin for IOS",
+  "cordova": {
+    "id": "cordova-plugin-documentpicker.DocumentPicker",
+    "platforms": [
+      "ios"
+    ]
+  },
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova-ios"
+  ],
+  "author": "Muhammed Noufal",
+  "license": "ISC"
+}
